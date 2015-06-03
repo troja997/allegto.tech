@@ -1,0 +1,21 @@
+body {
+    background-image: url('images/tlo.jpg');
+}
+.fa-th{
+    font-size: 20pt;
+    color: red;
+}
+.naglowek h1{
+    font-family: 'Amarante', sans-serif;
+	font-size: 40pt;
+}
+.col-xs-6 .col-sm-8 
+{
+	font-family: calibri;
+}	
+.row
+{
+	background-color:white;
+}
+
+    
